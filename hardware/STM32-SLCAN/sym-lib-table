@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "STM32-SLCAN-rescue")(type "Legacy")(uri "${KIPRJMOD}/STM32-SLCAN-rescue.lib")(options "")(descr ""))
+)
